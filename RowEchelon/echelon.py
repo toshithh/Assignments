@@ -1,4 +1,3 @@
-import os
 
 class Echelon:
     def __init__(self, matrix) -> None:
